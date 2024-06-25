@@ -2,3 +2,5 @@
 
 Update 1
 Test merge conflict
+
+Update within Visual Studio 
