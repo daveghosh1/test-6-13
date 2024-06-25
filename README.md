@@ -3,4 +3,6 @@
 Update 1
 Test merge conflict
 
+Update within github.com 
+
 Update within Visual Studio 
